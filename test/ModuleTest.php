@@ -1,7 +1,7 @@
 <?php
-namespace LeoGalleguillos\SessionTest;
+namespace MonthlyBasis\SessionTest;
 
-use LeoGalleguillos\Session\Module;
+use MonthlyBasis\Session\Module;
 use MonthlyBasis\LaminasTest\ModuleTestCase;
 
 class ModuleTest extends ModuleTestCase

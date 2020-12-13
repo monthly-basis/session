@@ -1,5 +1,5 @@
 <?php
-namespace LeoGalleguillos\Session\Service;
+namespace MonthlyBasis\Session\Service;
 
 class Id
 {

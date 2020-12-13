@@ -1,8 +1,8 @@
 <?php
-namespace LeoGalleguillos\Session;
+namespace MonthlyBasis\Session;
 
-use LeoGalleguillos\Session\Service as SessionService;
-use LeoGalleguillos\Session\Helper as SessionHelper;
+use MonthlyBasis\Session\Service as SessionService;
+use MonthlyBasis\Session\Helper as SessionHelper;
 
 class Module
 {

@@ -1,8 +1,8 @@
 <?php
-namespace LeoGalleguillos\SessionTest\Helper;
+namespace MonthlyBasis\SessionTest\Helper;
 
-use LeoGalleguillos\Session\Service as SessionService;
-use LeoGalleguillos\Session\Helper as SessionHelper;
+use MonthlyBasis\Session\Service as SessionService;
+use MonthlyBasis\Session\Helper as SessionHelper;
 use PHPUnit\Framework\TestCase;
 
 class IntValueTest extends TestCase
