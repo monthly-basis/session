@@ -2,7 +2,7 @@
 namespace LeoGalleguillos\SessionTest;
 
 use LeoGalleguillos\Session\Module;
-use LeoGalleguillos\Test\ModuleTestCase;
+use MonthlyBasis\LaminasTest\ModuleTestCase;
 
 class ModuleTest extends ModuleTestCase
 {
