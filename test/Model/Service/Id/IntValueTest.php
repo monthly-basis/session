@@ -1,7 +1,7 @@
 <?php
-namespace MonthlyBasis\SessionTest\Service\Id;
+namespace MonthlyBasis\SessionTest\Model\Service\Id;
 
-use MonthlyBasis\Session\Service as SessionService;
+use MonthlyBasis\Session\Model\Service as SessionService;
 use PHPUnit\Framework\TestCase;
 
 class IntValueTest extends TestCase

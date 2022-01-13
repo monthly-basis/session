@@ -1,7 +1,7 @@
 <?php
-namespace MonthlyBasis\Session\Service\Id;
+namespace MonthlyBasis\Session\Model\Service\Id;
 
-use MonthlyBasis\Session\Service as SessionService;
+use MonthlyBasis\Session\Model\Service as SessionService;
 
 /**
  * Cannot use 'Int' as class name because it is reserved. Use IntValue instead.

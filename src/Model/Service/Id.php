@@ -1,5 +1,5 @@
 <?php
-namespace MonthlyBasis\Session\Service;
+namespace MonthlyBasis\Session\Model\Service;
 
 class Id
 {

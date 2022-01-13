@@ -1,8 +1,8 @@
 <?php
 namespace MonthlyBasis\Session;
 
-use MonthlyBasis\Session\Service as SessionService;
-use MonthlyBasis\Session\Helper as SessionHelper;
+use MonthlyBasis\Session\Model\Service as SessionService;
+use MonthlyBasis\Session\View\Helper as SessionHelper;
 
 class Module
 {

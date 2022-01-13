@@ -1,7 +1,7 @@
 <?php
-namespace MonthlyBasis\SessionTest\Service;
+namespace MonthlyBasis\SessionTest\Model\Service;
 
-use MonthlyBasis\Session\Service as SessionService;
+use MonthlyBasis\Session\Model\Service as SessionService;
 use PHPUnit\Framework\TestCase;
 
 class IdTest extends TestCase
